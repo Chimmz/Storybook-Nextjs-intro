@@ -1,0 +1,9 @@
+.rating {
+  display: flex !important;
+  align-items: center;
+
+  & > small {
+    font-size: 1.4rem;
+    margin-top: 1.7px;
+  }
+}
